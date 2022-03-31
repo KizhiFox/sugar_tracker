@@ -13,7 +13,7 @@ Install the requirements and just run `sugar_tracker.py`. Add the `-j` or `--jso
 Prices per 1 kg according to https://sbermegamarket.ru/catalog/sahar/ data:
 mean: 102.64 ₽
 min: 85.0 ₽ (Сахар песок белый Продимекс 1 кг)
-max: 121.11 ₽ (Сахар Rioba свекловичный белый песок 900 г
+max: 121.11 ₽ (Сахар Rioba свекловичный белый песок 900 г)
 
 > python ./sugar_tracker.py --json
 {
